@@ -10,4 +10,5 @@ public class ProjectBoardApplication {
 		SpringApplication.run(ProjectBoardApplication.class, args);
 	}
 
+
 }
